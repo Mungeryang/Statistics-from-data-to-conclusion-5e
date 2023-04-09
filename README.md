@@ -9,26 +9,26 @@
 ## 仓库结构
 
 - Data-数据集
-- Code-代码集
-- Note-笔记集
+- Notebook-笔记程序集
 
 ## 大纲
 
-chapter1: Basci konwledge
+- chapter1: Basci konwledge
 
-chapter2: Selecting data
+- chapter2: Selecting data
 
-chapter3: Data description
+- chapter3: Data description
 
-chapter4: Probability and distribution
+- chapter4: Probability and distribution
 
-chapter5: Classification and regression
+- chapter5: Classification and regression
 
-chapter6: Multivariate analysis
+- chapter6: Multivariate analysis
 
-chapter7: Time series
+- chapter7: Time series
 
-chapter8: Subsistence analysis
+- chapter8: Subsistence analysis
+- chapter9: hypothetical test
 
 ## 语言实现
 
@@ -36,5 +36,5 @@ Using  Jupyter Notebook! :orange_book:
 
 参考借鉴：oldratlee老师仓库——Statistics-from-data-to-conclusion-4e:heart:
 
-PS: I have been looking for the data on the website for a long time, but without anything, until dig out the repository suddenly which is created by oldratlee. GOOD LUCK!
+PS: :heart:I have been looking for the data on the website for a long time, but without anything, until dig out the repository suddenly which is created by oldratlee. GOOD LUCK!:heart:
 
