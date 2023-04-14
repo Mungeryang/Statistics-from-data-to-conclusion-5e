@@ -13,7 +13,7 @@
 
 ## 大纲
 
-- chapter1: Basci konwledge
+- chapter1: Basic konwledge
 
 - chapter2: Selecting data
 
