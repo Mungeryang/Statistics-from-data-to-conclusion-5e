@@ -36,5 +36,7 @@ Using  Jupyter Notebook! :orange_book:
 
 参考借鉴：oldratlee老师仓库——Statistics-from-data-to-conclusion-4e:heart:
 
+更新了oldratlee老师的数据集(data)，第五版中新增的数据；搜集整理不易，且行且珍惜！
+
 PS: :heart:I have been looking for the data on the website for a long time, but without anything, until dig out the repository suddenly which is created by oldratlee. GOOD LUCK!:heart:
 
