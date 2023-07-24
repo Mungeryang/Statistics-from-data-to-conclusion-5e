@@ -27,8 +27,6 @@
 
 - chapter7: Time series
 
-- chapter8: Subsistence analysis
-- chapter9: hypothetical test
 
 ## 语言实现
 
